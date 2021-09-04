@@ -1,0 +1,1 @@
+web: gunicorn book_bot:app --log-file -
