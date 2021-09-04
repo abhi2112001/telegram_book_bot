@@ -1,0 +1,1 @@
+pip3 install PyTelegramBotAPI==3.6.7
